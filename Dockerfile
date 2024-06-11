@@ -1,0 +1,1 @@
+FROM jenkins/inbound-agent:latest-alpine3.20-jdk11
