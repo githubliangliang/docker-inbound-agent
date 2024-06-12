@@ -1,0 +1,1 @@
+FROM kubesphere/fluentbit-operator:v0.5.0
