@@ -1,0 +1,2 @@
+
+FROM kubesphere/elasticsearch-curator:v5.7.6
