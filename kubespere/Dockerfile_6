@@ -1,0 +1,1 @@
+FROM kubesphere/kube-events-ruler:v0.2.0

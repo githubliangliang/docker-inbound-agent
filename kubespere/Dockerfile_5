@@ -1,0 +1,1 @@
+FROM kubesphere/fluent-bit:v1.6.9
