@@ -1,0 +1,1 @@
+FROM bitpoke/mysql-operator-orchestrator:v0.5.3

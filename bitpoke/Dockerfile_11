@@ -1,0 +1,1 @@
+FROM bitpoke/mysql-operator-sidecar-8.0:v0.5.3
