@@ -1,1 +1,1 @@
-FROM mysql/mysql-operator:8.0.30-2.05
+FROM mysql/mysql-operator:8.0.30-2.0.5
