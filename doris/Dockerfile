@@ -1,0 +1,1 @@
+FROM selectdb/doris.fe-ubuntu:2.1.1
