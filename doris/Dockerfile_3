@@ -1,0 +1,1 @@
+FROM selectdb/doris.k8s-operator:1.6.0
