@@ -1,1 +1,1 @@
-FROM apache/dolphinscheduler-worker:3.2.2
+FROM apache/dolphinscheduler-api:3.2.2
