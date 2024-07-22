@@ -1,0 +1,1 @@
+FROM savatar101/omniparse:0.1
