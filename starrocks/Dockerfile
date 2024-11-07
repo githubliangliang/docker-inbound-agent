@@ -1,0 +1,1 @@
+FROM starrocks/fe-ubuntu:3.1.15

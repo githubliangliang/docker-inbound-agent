@@ -1,0 +1,1 @@
+FROM starrocks/be-ubuntu:3.1.15
